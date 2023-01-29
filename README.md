@@ -10,11 +10,17 @@ Over the past years, my research focussed broadly on developing novel theories f
 - the role of photonic entanglement in multidimensional nonlinear optics for complex systems interacting with localized photonic modes.
 - the role of shaped pulses in controlled multidimensional spectroscopy.
 
-During my research I performed my simulations using ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+ ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+ 
+
 
 # Passion
 
 An ambitious plan for a start-up which can leverages quantum information processing protocols for solving one specific bio-technological problem is in the offing.
+
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 <!--
 **arundmpsd/arundmpsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
