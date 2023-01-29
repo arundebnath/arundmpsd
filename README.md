@@ -5,10 +5,11 @@ I am a quantum physicist. I specialize in the physical modelling of quantum dyna
 
 # Research
 
-Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques. I have been particularly interested in understanding
-- the nature of high-energy diffraction at x-ray free-electron laser sources from a many-body perspective aimed at single particle imaging.
-- the role of photonic entanglement in multidimensional nonlinear optics for complex systems interacting with localized photonic modes.
-- the role of shaped pulses in controlled multidimensional spectroscopy.
+Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques. 
+I have been particularly interested in understanding
+- The nature of diffraction at high-energies (typically taking place at at x-ray free-electron laser sources) from a many-body perspective aimed at single particle imaging.
+- The role of photonic entanglements (as used in multidimensional nonlinear optics) in the dynamics of complex systems interacting with localized photonic modes.
+- The role of shaped pulses in controlled multidimensional spectroscopy.
 
  ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
