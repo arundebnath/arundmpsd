@@ -22,9 +22,7 @@ An ambitious plan for a start-up which can leverages quantum information process
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
-# Social
 
-![LinkedIn][(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/arundebnath)]
 
 <!--
 **arundmpsd/arundmpsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
