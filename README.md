@@ -1,7 +1,8 @@
-### Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques. I have been particularly interested in understanding 
-- the nature of high-energy diffraction at x-ray free-electron laser sources from a many-body perspective aimed at single particle imaging.
-- the role of photonic entanglement in multidimensional nonlinear optics for complex systems interacting with localized photonic modes.
-- the role of shaped pulses in controlled multidimensional spectroscopy.
+# Hi, Arun here.\
+Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques. I have been particularly interested in understanding \
+- the nature of high-energy diffraction at x-ray free-electron laser sources from a many-body perspective aimed at single particle imaging.\
+- the role of photonic entanglement in multidimensional nonlinear optics for complex systems interacting with localized photonic modes.\
+- the role of shaped pulses in controlled multidimensional spectroscopy.\
 
 A plan for a start-up that leverages quantum information processing protocols is in the offing.
 
