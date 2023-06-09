@@ -1,8 +1,6 @@
 # About me
 
 I am a quantum physicist by training and a scientist by designation. I specialize in the physical modelling of quantum dynamics and phenomenology involving laser-matter interactions.
-In the process of founding a start-up which utilizes ML and Quantum computing for delivering precison imaging as a service.
-
 
 
 # Research
@@ -21,7 +19,7 @@ I have been particularly interested in understanding
 
 # Passion
 
-An ambitious plan for a start-up which can leverages quantum information processing protocols for solving one specific bio-technological problem is in the offing.
+An ambitious plan for a start-up which leverages ML and quantum algorithms for providing precision imaging is in the offing.
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
