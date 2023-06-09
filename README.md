@@ -1,6 +1,6 @@
 # About me
 
-I am a quantum physicist by training and a scientist by designation. I specialize in the physical modelling of quantum dynamics and phenomenology involving laser-matter interactions.
+I specialize in the physical modelling of quantum dynamics. In the past, my works was able to describe a wide range of phenomenology involving laser-matter interactions, dissipative systems and quantum hardwares.
 
 
 # Research
