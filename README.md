@@ -1,6 +1,6 @@
 # About me
 
-I specialize in the physical modeling of quantum dynamics. In the past, my works were able to describe a wide range of phenomenology involving laser-matter interactions, dissipative systems, and quantum spectroscopy. 
+I specialize in the physical modeling of quantum dynamics. In the past, my research work was able to describe a wide range of phenomenology involving laser-matter interactions, dissipative systems, and quantum spectroscopy. 
 
 
 # Research
