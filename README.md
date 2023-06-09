@@ -1,13 +1,13 @@
 # About me
 
-I specialize in the physical modelling of quantum dynamics. In the past, my works was able to describe a wide range of phenomenology involving laser-matter interactions, dissipative systems and quantum hardwares.
+I specialize in the physical modeling of quantum dynamics. In the past, my works were able to describe a wide range of phenomenology involving laser-matter interactions, dissipative systems, and quantum spectroscopy. 
 
 
 # Research
 
-Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques. 
+Over the past years, my research focussed broadly on developing novel theories for photon-matter interactions, often using field-theoretic techniques.
 I have been particularly interested in understanding
-- The nature of diffraction at high-energies (typically taking place at at x-ray free-electron laser sources) from a many-body perspective aimed at single particle imaging.
+- The nature of diffraction at high energies (typically taking place at x-ray free-electron laser sources) from a many-body perspective aimed at single particle imaging.
 - The role of photonic entanglements (as used in multidimensional nonlinear optics) in the dynamics of complex systems interacting with localized photonic modes.
 - The role of shaped pulses in controlled multidimensional spectroscopy.
 
